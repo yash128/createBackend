@@ -1,0 +1,1 @@
+When start creating a php, mysql project. The initialization setup can be tedious. This automatically sets up initial things such gives you code for front-end forms and also their backend code to insert in databse which we can directly copy paste. Also it creates database and initial tables required.
